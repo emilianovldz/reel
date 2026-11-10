@@ -1,14 +1,10 @@
 {
   "titles": [
-    {
-      "type": "tv",
-      "id": 213375,
-      "image": "/jfltxthL5nDD14AxOd6gxbBYX6v.jpg"
-    },
-    {
-      "type": "movie",
-      "id": 155,
-      "logo": "/mt7M2DF35MqfGyEW4lLkEcVYmmE.png"
-    }
+    { "type": "movie", "id": 1567605 },
+    { "type": "movie", "id": 1300968 },
+    { "type": "movie", "id": 1765072 },
+    { "type": "movie", "id": 1003596 },
+    { "type": "movie", "id": 1170608 },
+    { "type": "movie", "id": 1260649 }
   ]
 }
